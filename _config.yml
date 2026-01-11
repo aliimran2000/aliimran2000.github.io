@@ -18,7 +18,7 @@ linkedin_username: "m-ali-imran"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "jekyll-text-theme"
+theme: "minima"
 
 rss: rss
 
