@@ -310,7 +310,7 @@ If you wouldn’t merge it from a junior, don’t merge it from an LLM.
 
 ---
 
-## 13. Final Note
+## Final Notes
 Cursor does not make engineers productive.
 Clear intent does.
 The role is shifting from:
@@ -318,3 +318,5 @@ The role is shifting from:
 **writing code → defining constraints and editing logic**
 
 Everything else is noise.
+
+Follow me on [Linkedin](https://www.linkedin.com/in/m-ali-imran/) & [X](https://x.com/malii2k)
